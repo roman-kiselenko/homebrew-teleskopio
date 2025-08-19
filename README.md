@@ -1,3 +1,3 @@
 # Homebrw Cask 
 
-teleskopio
+[teleskopio](https://github.com/roman-kiselenko/teleskopio)
