@@ -1,6 +1,6 @@
 cask "teleskopio" do
-  version "0.0.4"
-  sha256 "ae807917ab1ac6dd3182046b881b2cbf6d4bd782b400394a7f61b1ec4413e0fe"
+  version "0.0.5"
+  sha256 "8ad4f116bfdd862598109a7841775beb56078e63daf5efa6404ce44302b78b99"
 
   url "https://github.com/roman-kiselenko/teleskopio/releases/download/v#{version}/teleskopio_#{version}_aarch64.dmg"
   name "teleskopio"
